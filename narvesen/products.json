@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name":"Chips",
+    "price": 99
+  },
+  {
+    "id": 2,
+    "name":"Soda",
+    "price": 199
+  },
+  {
+    "id": 3,
+    "name":"Candy",
+    "price": 299
+  },
+  {
+    "id": 4,
+    "name":"Popcorn",
+    "price": 399
+  },
+  {
+    "id": 5,
+    "name":"Magazine",
+    "price": 499
+  }
+]
